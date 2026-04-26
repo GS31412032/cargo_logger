@@ -1,7 +1,9 @@
 ## cargo_logger
 ### Status: Incomplete
 ### Extract:
-A simple cargo logger program for a simulated logistics company. Immersive Learning Project where implimentation can only be done from memory.
+A simple cargo logger program for a simulated logistics company. Immersive Learning Project where implementation can 
+only be done from memory - when you become stuck, you may do general studies on the subject in question, for example:
+if you have an issue with your database, you may separately study SQL etc.
 
 
 ### Progress Log
