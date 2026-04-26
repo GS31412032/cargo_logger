@@ -10,4 +10,6 @@ def test_db_user_data():
 
     # Connect to Database
     conn = duckdb.connect('database/logger.db')
-    pass
+    curser = conn.execute('select * from logger')
+    print(curser)
+
